@@ -1,0 +1,100 @@
+#page{
+	background-color: #8fbdc4;
+	/*top: 50px;
+	bottom: 50px;
+	left: 50px;
+	right: 50px;*/
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#heading{
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	border-bottom: 0px;
+}
+
+#image {
+	border: 5px solid red;
+	position: relative;
+	right:-600px;
+	top: -120px;
+	width: 200px;
+	height: 250px;
+	background-color: red;
+	-ms-transform: rotate(-7deg);
+	-webkit-transform: rotate(-7deg);
+	transform: rotate (-7deg);
+}
+#contact {
+	position: relative;
+	top: -300px;
+	height: 350px;
+	width:300px;
+	font-size: 20px;
+	font-style: arial black;
+	margin-left: 50px; 
+}
+#details	{
+	position: relative;
+	top: -600px;
+	height: 100px;
+	width:500px;
+	font-size: 20px;
+	font-family: "Courier New";
+	font-style: italic;
+	font-size: 18px;
+	padding-left: 50px;
+}
+#edu1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 530px;
+	border-right: 1px solid white;
+	padding-right: 50px;
+	padding-bottom: 80px;
+	padding-left: 210px;
+	
+}
+#edu2{
+	position: relative;
+	right:-450px;
+	top: -390px;
+	
+}
+#skills1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 670px;
+	border-right: 1px solid white;
+	padding-right: 51px;
+	padding-bottom: 80px;
+	padding-left: 250px;
+}
+#skills2{
+	position: relative;
+	right: -450px;
+	top: -340px;
+}
+#exp1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 815px;
+	border-right: 1px solid white;
+	padding-right: 43px;
+	padding-bottom: 80px;
+	padding-left: 210px;
+}
+#exp2{
+	position: relative;
+	right:-450px;
+	top: -280px;
+}
