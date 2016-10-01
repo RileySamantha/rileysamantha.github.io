@@ -57,13 +57,13 @@
 	border-right: 1px solid white;
 	padding-right: 50px;
 	padding-bottom: 80px;
-	padding-left: 210px;
+	padding-left: 280px;
 	
 }
 #edu2{
 	position: relative;
-	right:-450px;
-	top: -390px;
+	right:-400px;
+	top: -405px;
 	
 }
 #skills1{
@@ -75,12 +75,12 @@
 	border-right: 1px solid white;
 	padding-right: 51px;
 	padding-bottom: 80px;
-	padding-left: 250px;
+	padding-left: 320px;
 }
 #skills2{
 	position: relative;
-	right: -450px;
-	top: -340px;
+	right: -400px;
+	top: -415px;
 }
 #exp1{
 	position: absolute;
@@ -91,10 +91,42 @@
 	border-right: 1px solid white;
 	padding-right: 43px;
 	padding-bottom: 80px;
-	padding-left: 210px;
+	padding-left: 280px;
 }
 #exp2{
 	position: relative;
-	right:-450px;
+	right:-400px;
+	top: -395px;
+}
+#hob1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 960px;
+	border-right: 1px solid white;
+	padding-right: 43px;
+	padding-bottom: 80px;
+	padding-left: 306px;
+}
+#hob2{
+	position: relative;
+	right:-375px;
+	top: -350px;
+}
+#ref1{
+	position: absolute;
+	font-weight: bold;
+	left: 90px;
+	font-size: 20px;
+	top: 1105px;
+	border-right: 1px solid white;
+	padding-right: 43px;
+	padding-bottom: 80px;
+	padding-left: 291px;
+}
+#ref2{
+	position: relative;
+	right:-400px;
 	top: -280px;
 }
